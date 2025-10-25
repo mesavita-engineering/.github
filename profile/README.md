@@ -1,12 +1,14 @@
-## Hi there 👋
+# Mesavita Engineering
 
-<!--
+Mesavita Engineering is a collaborative workspace for internal learning projects, experimentation, and shared engineering efforts. This organization supports developers who want to improve their skills, explore new technologies, and contribute to team-driven initiatives.
 
-**Here are some ideas to get you started:**
+## Focus Areas
+- Software engineering best practices
+- Experimentation with tools and frameworks
+- Shared learning and peer review
+- Reusable internal knowledge and patterns
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## How to Participate
+Refer to the contribution guidelines in each repository. All contributors are expected to follow the Code of Conduct and maintain professionalism in all communication.
+
+This organization is for internal learning purposes only and must not contain proprietary or sensitive material.
